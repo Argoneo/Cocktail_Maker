@@ -263,7 +263,7 @@ input {
 }
 
 #instructions {
-   overflow-y: scroll;
+   overflow-y: auto;
    font-size: 16px!important;
    color: #ffebd6;
    line-height: 1.3;
