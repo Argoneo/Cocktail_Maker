@@ -139,7 +139,7 @@ input {
    margin: 30px 0 0 0;
    padding-right: 0;
   /* Minimum height for container */
-   max-height: 250px !important; /* Maximum height for container */
+   height: auto!important; /* Maximum height for container */
    gap: 30px;
    border-radius: 10px;
    margin-left: 15px;
